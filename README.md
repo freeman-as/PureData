@@ -1,3 +1,1 @@
-# PureData
-
-とりあえず日々作ったパッチをあげています。
+# PureData_patches
